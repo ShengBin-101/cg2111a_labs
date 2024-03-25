@@ -1,2 +1,5 @@
 /W9S2_TLS_Server/signing.*
 /W9S2_TLS_Server/alex.*
+/W9S2_TLS_Client/signing.*
+/W9S2_TLS_Client/alex.*
+/W9S2_TLS_Client/laptop.*
